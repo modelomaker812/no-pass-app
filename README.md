@@ -1,5 +1,7 @@
 # Passwordless Login Boilerplate
 
+<img src="https://github.com/modelomaker812/no-pass-app/blob/main/public/no-pass-app.png?raw=true" width="500px" height="500px"></img>
+
 This example shows how to integrate Authsignal with Next.js in order to implement passwordless login,
  using Authsignal's email magic links and server-side redirects.
 
@@ -7,6 +9,7 @@ The login session is managed using cookies.
 Session data is encrypted using [@hapi/iron](https://hapi.dev/family/iron).
 
 A live version of this example can be found [here](https://authsignal-next-passwordless-example.vercel.app).
+
 
 ## Deploy your own
 
